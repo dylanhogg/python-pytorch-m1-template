@@ -1,6 +1,15 @@
+jupyterlab
+ipywidgets
+pandas
+numpy
+matplotlib
+scikit-learn
 python-dotenv
 click
 sphinx
 typer
 tqdm
 loguru
+pytest
+black
+flake8
