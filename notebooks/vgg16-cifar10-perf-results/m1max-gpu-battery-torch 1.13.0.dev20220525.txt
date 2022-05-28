@@ -1,0 +1,26 @@
+torch 1.13.0.dev20220525
+device mps (battery only)
+Downloading https://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz to data/cifar-10-python.tar.gz
+Extracting data/cifar-10-python.tar.gz to data
+Downloading: "https://github.com/pytorch/vision/zipball/v0.11.0" to /Users/dylan/.cache/torch/hub/v0.11.0.zip
+Epoch: 001/001 | Batch 0000/1406 | Loss: 2.2207
+Epoch: 001/001 | Batch 0100/1406 | Loss: 2.2413
+Epoch: 001/001 | Batch 0200/1406 | Loss: 2.3716
+Epoch: 001/001 | Batch 0300/1406 | Loss: 2.1612
+Epoch: 001/001 | Batch 0400/1406 | Loss: 2.0904
+Epoch: 001/001 | Batch 0500/1406 | Loss: 2.1873
+Epoch: 001/001 | Batch 0600/1406 | Loss: 2.2288
+Epoch: 001/001 | Batch 0700/1406 | Loss: 2.2593
+Epoch: 001/001 | Batch 0800/1406 | Loss: 2.1224
+Epoch: 001/001 | Batch 0900/1406 | Loss: 2.0456
+Epoch: 001/001 | Batch 1000/1406 | Loss: 2.2629
+Epoch: 001/001 | Batch 1100/1406 | Loss: 2.1131
+Epoch: 001/001 | Batch 1200/1406 | Loss: 1.9174
+Epoch: 001/001 | Batch 1300/1406 | Loss: 2.0727
+Epoch: 001/001 | Batch 1400/1406 | Loss: 1.9916
+Time / epoch without evaluation: 59.39 min
+Epoch: 001/001 | Train: 28.29% | Validation: 28.66% | Best Validation (Ep. 001): 28.66%
+Time elapsed: 116.07 min
+Total Training Time: 116.07 min
+Test accuracy 28.39%
+Total Time: 116.97 min

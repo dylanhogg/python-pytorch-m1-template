@@ -1,0 +1,25 @@
+torch 1.13.0.dev20220525
+device mps
+Files already downloaded and verified
+Using cache found in /Users/dylan/.cache/torch/hub/pytorch_vision_v0.11.0
+Epoch: 001/001 | Batch 0000/1406 | Loss: 2.4653
+Epoch: 001/001 | Batch 0100/1406 | Loss: 2.1912
+Epoch: 001/001 | Batch 0200/1406 | Loss: 2.0312
+Epoch: 001/001 | Batch 0300/1406 | Loss: 2.0336
+Epoch: 001/001 | Batch 0400/1406 | Loss: 2.0397
+Epoch: 001/001 | Batch 0500/1406 | Loss: 2.2242
+Epoch: 001/001 | Batch 0600/1406 | Loss: 2.1194
+Epoch: 001/001 | Batch 0700/1406 | Loss: 2.1280
+Epoch: 001/001 | Batch 0800/1406 | Loss: 2.2779
+Epoch: 001/001 | Batch 0900/1406 | Loss: 2.1291
+Epoch: 001/001 | Batch 1000/1406 | Loss: 1.7081
+Epoch: 001/001 | Batch 1100/1406 | Loss: 1.9187
+Epoch: 001/001 | Batch 1200/1406 | Loss: 1.8423
+Epoch: 001/001 | Batch 1300/1406 | Loss: 1.8163
+Epoch: 001/001 | Batch 1400/1406 | Loss: 1.8153
+Time / epoch without evaluation: 19.85 min
+Epoch: 001/001 | Train: 32.96% | Validation: 32.46% | Best Validation (Ep. 001): 32.46%
+Time elapsed: 23.52 min
+Total Training Time: 23.52 min
+Test accuracy 33.62%
+Total Time: 24.42 min

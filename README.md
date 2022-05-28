@@ -54,9 +54,8 @@ Type `make` for all commands.
 
 ## Improvements
 
-1) Include PyTorch benchmarks (e.g. https://github.com/pytorch/benchmark) 
-2) More GitHub actions
-3) Replace requirements with [Poetry](https://python-poetry.org/)
-4) Investigate adding static Typing checking, e.g. [mypy](https://github.com/python/mypy)
-5) Turn into a [cookiecutter](https://cookiecutter.readthedocs.io/) template
-6) Add more examples in `/src/examples`
+1) More GitHub actions
+2) Replace requirements with [Poetry](https://python-poetry.org/)
+3) Investigate adding static Typing checking, e.g. [mypy](https://github.com/python/mypy)
+4) Turn into a [cookiecutter](https://cookiecutter.readthedocs.io/) template
+5) Add more examples in `/src/examples`
